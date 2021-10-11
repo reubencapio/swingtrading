@@ -1,0 +1,221 @@
+1. AMZN - Amazon
+2. SHOP - Shopify
+3. TTD - The Trade Desk
+4. SQ - Square
+5. MELI - MercadoLibre
+6. PYPL - PayPal Holdings
+7. TWLO - Twilio
+8. MDB - MongoDB
+9. ANET - Arista Networks
+10. NFLX - Netflix
+11. AAPL - Apple
+12. FB - Facebook
+14. PAYC - Paycom Software
+15. ETSY - Etsy
+16. MA - Mastercard
+17. TDOC - Teladoc Health
+18. OKTA - Okta
+19. VEEV - Veeva Systems
+20. APPN - Appian
+21. DOCU - DocuSign
+22. HUBS - HubSpot
+23. AYX - Alteryx
+24. TSLA - Tesla
+25. DIS - Walt Disney
+26. ROKU - Roku
+27. CRM - Salesforce.com
+28. GOOG - Alphabet (C shares)
+30. RDFN - Redfin
+31. NVDA - Nvidia
+33. DDOG - Datadog
+34. ZS - Zscaler
+35. PINS - Pinterest
+36. CRWD - CrowdStrike Holdings, Inc.
+37. SBUX - Starbucks
+38. ZM - Zoom Video Communications
+39. AXON - Axon Enterprise
+40. ATVI - Activision Blizzard
+41. TEAM - Atlassian
+42. ADBE - Adobe Inc.
+43. AMT - American Tower
+44. ISRG - Intuitive Surgical
+45. TCEHY - Tencent Holdings
+46. TTWO - Take-Two Interactive
+47. NET - Cloudflare, Inc.
+48. WIX - Wix.com
+49. SFIX - Stitch Fix
+50. FSLY - Fastly
+51. ULTA - Ulta Beauty
+52. ALGN - Align Technology
+53. CGNX - Cognex
+54. WDAY - Workday
+55. JD - JD.com
+56. ILMN - Illumina
+57. FVRR - Fiverr International
+58. MNST - Monster Beverage
+59. BL - BlackLine, Inc.
+61. ADSK - Autodesk
+62. MKL - Markel
+63. CMG - Chipotle Mexican Grill
+65. PTON - Peloton Interactive
+66. NOW - ServiceNow, Inc.
+68. ZEN - Zendesk
+69. IRBT - iRobot
+70. ACN - Accenture
+71. SWKS - Skyworks Solutions
+72. MTCH - Match Group
+74. PRLB - Proto Labs
+75. UPST - Upstart Holdings, Inc.
+76. SE - Sea Limited
+77. TWTR - Twitter
+78. EDIT - Editas Medicine
+80. IQ - iQiyi
+83. IPGP - IPG Photonics
+84. BRK.B - Berkshire Hathaway (B shares)
+85. UPWK - Upwork
+86. IDXX - Idexx Laboratories
+88. Z - Zillow Group (C shares)
+93. COST - Costco Wholesale
+94. GH - Guardant Health
+95. EA - Electronic Arts
+96. SPLK - Splunk
+97. NVCR - Novocure
+99. MKC - McCormick
+100. EQIX - Equinix
+104. NTNX - Nutanix
+105. MASI - Masimo
+107. TSCO - Tractor Supply
+109. UI - Ubiquiti Inc.
+113. ABNB - Airbnb, Inc.
+115. ZNGA - Zynga
+117. HQY - HealthEquity
+120. NVTA - Invitae
+122. ABMD - Abiomed
+123. U - Unity Software Inc.
+125. VRNS - Varonis Systems
+126. FTNT - Fortinet
+128. LULU - Lululemon Athletica
+131. LYV - Live Nation Entertainment
+132. IBKR - Interactive Brokers
+133. AVAV - AeroVironment
+134. IIVI - II-VI
+137. LRCX - Lam Research
+139. AX - Axos Financial
+143. NKE - Nike
+144. NEE - NextEra Energy
+146. MRNA - Moderna Inc.
+148. NEWR - New Relic
+149. BMBL - Bumble Inc.
+152. JKHY - Jack Henry & Associates
+153. DXCM - DexCom
+154. ASML - ASML Holding
+155. BZUN - Baozun
+156. SSNC - SS&C Technologies Holdings
+157. PLNT - Planet Fitness
+160. BKNG - Booking Holdings
+161. PANW - Palo Alto Networks
+165. IONS - Ionis Pharmaceuticals
+169. GILD - Gilead Sciences
+170. WING - Wingstop
+173. TREX - Trex
+175. LMND - Lemonade, Inc.
+179. CPNG - Coupang, Inc.
+180. BIDU - Baidu
+181. INTU - Intuit
+182. BLUE - Bluebird Bio
+185. DASTY - Dassault Systemes
+185. XLNX - Xilinx
+194. BYND - Beyond Meat, Inc.
+195. KMI - Kinder Morgan
+196. ROL - Rollins
+198. HCA - HCA Healthcare
+198. ICE - Intercontinental Exchange
+201. TXRH - Texas Roadhouse
+202. FIVE - Five Below
+205. FDX - FedEx
+206. HAS - Hasbro
+207. MTN - Vail Resorts
+208. MIDD - Middleby
+209. BILI - Bilibili
+210. LOGI - Logitech International
+211. SNPS - Synopsys
+216. FUBO - fuboTV, Inc.
+220. IT - Gartner
+220. CTAS - Cintas
+220. WAB - Westinghouse Air Brake Technologies
+220. WSM - Williams-Sonoma
+231. SKX - Skechers
+232. BCPC - Balchem
+234. FRPT - Freshpet
+238. SAM - Boston Beer
+239. W - Wayfair
+241. COUP - Coupa Software
+242. H - Hyatt Hotels
+242. NTDOY - Nintendo
+252. UBER - Uber Technologies
+255. RBLX - Roblox Corporation
+258. OLLI - Ollie's Bargain Outlet Holdings
+266. GDRX - GoodRx Holdings, Inc.
+268. CPRT - Copart
+268. GDDY - GoDaddy
+268. LPSN - LivePerson
+268. MOMO - Hello Group
+268. NTES - NetEase
+268. RH - RH
+268. SIRI - Sirius XM Holdings Inc.
+268. SNBR - Sleep Number Corp
+277. FDS - FactSet Research Systems
+278. ALK - Alaska Air Group
+279. ZBRA - Zebra Technologies
+283. EBAY - eBay
+284. ALKS - Alkermes
+284. ALNY - Alnylam Pharmaceuticals
+284. AMGN - Amgen
+284. AVGO - Broadcom Ltd
+284. BLKB - Blackbaud
+284. FSLR - First Solar
+284. GTLS - Chart Industries
+284. LKQ - LKQ
+284. MTZ - MasTec
+284. NICE - Nice Systems
+284. NUVA - NuVasive
+284. NVO - Novo Nordisk
+284. RMD - ResMed
+284. SGEN - Seagen Inc.
+284. SWAV - ShockWave Medical
+284. VRTX - Vertex Pharmaceuticals
+284. BIIB - Biogen
+303. EXEL - Exelixis
+304. BB - BlackBerry
+304. SIVB - SVB Financial Group
+306. WAL - Western Alliance Bancorp
+316. WM - Waste Management
+318. BMRN - BioMarin Pharmaceutical
+319. CASY - Caseys General Stores
+320. TWOU - 2U
+321. BUD - Anheuser-Busch InBev NV
+321. UNH - UnitedHealth Group
+326. CLB - Core Laboratories
+330. TMUS - T-Mobile US
+331. CRTO - Criteo
+332. UAA - Under Armour (A Shares)
+335. CBOE - Cboe Global Markets Inc
+335. CME - CME Group
+335. LFUS - Littelfuse
+335. ODFL - Old Dominion Freight Line
+335. PAC - Grupo Aeroportuario del Pacifico
+335. RPM - RPM International
+342. MMM - 3M
+343. CWH - Camping World Holdings
+345. CMI - Cummins
+347. EBS - Emergent BioSolutions
+348. WSO - Watsco
+349. OII - Oceaneering International
+354. CVS - CVS Health
+355. MAR - Marriott International
+355. SHW - Sherwin-Williams
+359. NYT - The New York Times
+359. STAA - STAAR Surgical
+361. NXPI - NXP Semiconductors
+363. TDG - TransDigm Group
+363. TXT - Textron
