@@ -1,0 +1,903 @@
+ticker = PAYC
+priceToEarningsRatio = 76.545
+priceToBookValue = 25.487
+debtToEquityRatio = 2.851
+freeCashFlow = 122096000
+
+
+ticker = ETSY
+priceToEarningsRatio = 55.375
+priceToBookValue = 12.909
+debtToEquityRatio = 2.793
+freeCashFlow = 191642000
+
+
+ticker = MA
+priceToEarningsRatio = 33.707
+priceToBookValue = 49.201
+debtToEquityRatio = 4.659
+freeCashFlow = 1650000000
+
+
+ticker = TDOC
+priceToEarningsRatio = -128.75
+priceToBookValue = 13.034
+debtToEquityRatio = 0.603
+freeCashFlow = -7282000
+
+
+ticker = OKTA
+priceToEarningsRatio = -71.938
+priceToBookValue = 38.289
+debtToEquityRatio = 3.824
+freeCashFlow = 36273000
+
+
+ticker = VEEV
+priceToEarningsRatio = 77.422
+priceToBookValue = 14.153
+debtToEquityRatio = 0.364
+freeCashFlow = 433054000
+
+
+ticker = APPN
+priceToEarningsRatio = -81.403
+priceToBookValue = 20.61
+debtToEquityRatio = 0.81
+freeCashFlow = -6957000
+
+
+ticker = DOCU
+priceToEarningsRatio = -69.975
+priceToBookValue = 27.425
+debtToEquityRatio = 2.462
+freeCashFlow = 43650000
+
+
+ticker = HUBS
+priceToEarningsRatio = -123.828
+priceToBookValue = 10.443
+debtToEquityRatio = 1.414
+freeCashFlow = 65127000
+
+
+ticker = AYX
+priceToEarningsRatio = 232.721
+priceToBookValue = 15.326
+debtToEquityRatio = 2.159
+freeCashFlow = 15413000
+
+
+ticker = TSLA
+priceToEarningsRatio = -1000.638
+priceToBookValue = 16.177
+debtToEquityRatio = 2.891
+freeCashFlow = 996799000
+
+
+ticker = DIS
+priceToEarningsRatio = 21.996
+priceToBookValue = 2.98
+debtToEquityRatio = 1.126
+freeCashFlow = 1730000000
+
+
+ticker = ROKU
+priceToEarningsRatio = -257.5
+priceToBookValue = 22.53
+debtToEquityRatio = 1.105
+freeCashFlow = -63473000
+
+
+ticker = CRM
+priceToEarningsRatio = 1130.667
+priceToBookValue = 4.48
+debtToEquityRatio = 0.627
+freeCashFlow = 3688000000
+
+
+ticker = RDFN
+priceToEarningsRatio = -24.023
+priceToBookValue = 5.885
+debtToEquityRatio = 0.799
+freeCashFlow = -123143000
+
+
+ticker = NVDA
+priceToEarningsRatio = 54.571
+priceToBookValue = 12.561
+debtToEquityRatio = 0.419
+freeCashFlow = 4272000000
+
+
+ticker = DDOG
+priceToEarningsRatio = -314.833
+priceToBookValue = 14.286
+debtToEquityRatio = 0.327
+freeCashFlow = 791000
+
+
+ticker = ZS
+priceToEarningsRatio = -366.391
+priceToBookValue = 34.319
+debtToEquityRatio = 0.958
+freeCashFlow = 29345000
+
+
+ticker = PINS
+priceToEarningsRatio = -5.753
+priceToBookValue = 5.142
+debtToEquityRatio = 0.183
+freeCashFlow = -33126000
+
+
+ticker = CRWD
+priceToEarningsRatio = -63.635
+priceToBookValue = 16.92
+debtToEquityRatio = 0.892
+freeCashFlow = 12456000
+
+
+ticker = SBUX
+priceToEarningsRatio = 27.708
+priceToBookValue = -12.209
+debtToEquityRatio = -4.65
+freeCashFlow = -1725300000
+
+
+ticker = ZM
+priceToEarningsRatio = 847.778
+priceToBookValue = 25.289
+debtToEquityRatio = 0.547
+freeCashFlow = 113808000
+
+
+ticker = ATVI
+priceToEarningsRatio = 30.316
+priceToBookValue = 3.565
+debtToEquityRatio = 0.55
+freeCashFlow = 1715000000
+
+
+ticker = TEAM
+priceToEarningsRatio = -52.828
+priceToBookValue = 60.591
+debtToEquityRatio = 4.265
+freeCashFlow = 425871000
+
+
+ticker = ADBE
+priceToEarningsRatio = 46.477
+priceToBookValue = 14.272
+debtToEquityRatio = 1.027
+freeCashFlow = 1231000000
+
+
+ticker = AMT
+priceToEarningsRatio = 50.522
+priceToBookValue = 26.536
+debtToEquityRatio = 9.956
+freeCashFlow = 585600000
+
+
+ticker = ISRG
+priceToEarningsRatio = 41.336
+priceToBookValue = 6.752
+debtToEquityRatio = 0.16
+freeCashFlow = 247600000
+
+
+ticker = TTWO
+priceToEarningsRatio = 35.102
+priceToBookValue = 5.711
+debtToEquityRatio = 1.079
+freeCashFlow = 776546000
+
+
+ticker = NET
+priceToEarningsRatio = -23.694
+priceToBookValue = 7.056
+debtToEquityRatio = 0.145
+freeCashFlow = -96196000
+
+
+ticker = WIX
+priceToEarningsRatio = -71.567
+priceToBookValue = 29.024
+debtToEquityRatio = 4.293
+freeCashFlow = 127498000
+
+
+ticker = SFIX
+priceToEarningsRatio = 67.108
+priceToBookValue = 6.326
+debtToEquityRatio = 0.556
+freeCashFlow = 47769000
+
+
+ticker = FSLY
+priceToEarningsRatio = -27
+priceToBookValue = 7.537
+debtToEquityRatio = 0.246
+freeCashFlow = -8907000
+
+
+ticker = ULTA
+priceToEarningsRatio = 21.942
+priceToBookValue = 8.051
+debtToEquityRatio = 1.557
+freeCashFlow = 802759000
+
+
+ticker = ALGN
+priceToEarningsRatio = 50.097
+priceToBookValue = 16.337
+debtToEquityRatio = 0.858
+freeCashFlow = 597563000
+
+
+ticker = CGNX
+priceToEarningsRatio = 39.009
+priceToBookValue = 5.63
+debtToEquityRatio = 0.42
+freeCashFlow = 237365000
+
+
+ticker = WDAY
+priceToEarningsRatio = -78.566
+priceToBookValue = 15.54
+debtToEquityRatio = 1.741
+freeCashFlow = 620054000
+
+
+ticker = JD
+priceToEarningsRatio = 29.499
+priceToBookValue = 4.38
+debtToEquityRatio = 1.944
+freeCashFlow = 23728328000
+
+
+ticker = ILMN
+priceToEarningsRatio = 47.794
+priceToBookValue = 9.701
+debtToEquityRatio = 0.567
+freeCashFlow = 941000000
+
+
+ticker = FVRR
+priceToEarningsRatio = -14.072
+priceToBookValue = 4.895
+debtToEquityRatio = 0.588
+freeCashFlow = -15699000
+
+
+ticker = MNST
+priceToEarningsRatio = 31.152
+priceToBookValue = 8.192
+debtToEquityRatio = 0.235
+freeCashFlow = 1004603000
+
+
+ticker = BL
+priceToEarningsRatio = -87.39
+priceToBookValue = 7.197
+debtToEquityRatio = 1.533
+freeCashFlow = 20032000
+
+
+ticker = ADSK
+priceToEarningsRatio = 152.276
+priceToBookValue = -235.508
+debtToEquityRatio = -45.423
+freeCashFlow = 1361900000
+
+
+ticker = MKL
+priceToEarningsRatio = -63.951
+priceToBookValue = 1.287
+debtToEquityRatio = 2.691
+freeCashFlow = 36152000
+
+
+ticker = CMG
+priceToEarningsRatio = 72.442
+priceToBookValue = 14.718
+debtToEquityRatio = 2.114
+freeCashFlow = 387752000
+
+
+ticker = ICE
+priceToEarningsRatio = 24.058
+priceToBookValue = 2.93
+debtToEquityRatio = 7.193
+freeCashFlow = 461000000
+
+
+ticker = TXRH
+priceToEarningsRatio = 22.684
+priceToBookValue = 4.245
+debtToEquityRatio = 1.149
+freeCashFlow = 161014000
+
+
+ticker = FIVE
+priceToEarningsRatio = 16.646
+priceToBookValue = 3.825
+debtToEquityRatio = 1.578
+freeCashFlow = -25268000
+
+
+ticker = FDX
+priceToEarningsRatio = -74.772
+priceToBookValue = 1.317
+debtToEquityRatio = 2.718
+freeCashFlow = -235000000
+
+
+ticker = HAS
+priceToEarningsRatio = 20.27
+priceToBookValue = 3.77
+debtToEquityRatio = 1.956
+freeCashFlow = 220657000
+
+
+ticker = MTN
+priceToEarningsRatio = 33.046
+priceToBookValue = 6.604
+debtToEquityRatio = 1.799
+freeCashFlow = 442196000
+
+
+ticker = MIDD
+priceToEarningsRatio = 17.335
+priceToBookValue = 3.164
+debtToEquityRatio = 1.569
+freeCashFlow = 330816000
+
+
+ticker = BILI
+priceToEarningsRatio = -38.789
+priceToBookValue = 7.201
+debtToEquityRatio = 1.117
+freeCashFlow = -101493000
+
+
+ticker = LOGI
+priceToEarningsRatio = 25.218
+priceToBookValue = 5.543
+debtToEquityRatio = 0.721
+freeCashFlow = 269251000
+
+
+ticker = SNPS
+priceToEarningsRatio = 38.239
+priceToBookValue = 4.997
+debtToEquityRatio = 0.567
+freeCashFlow = 598125000
+
+
+ticker = IT
+priceToEarningsRatio = 59.269
+priceToBookValue = 14.687
+debtToEquityRatio = 6.619
+freeCashFlow = 416420000
+
+
+ticker = CTAS
+priceToEarningsRatio = 19.808
+priceToBookValue = 5.648
+debtToEquityRatio = 1.377
+freeCashFlow = 299986000
+
+
+ticker = WAB
+priceToEarningsRatio = 41.099
+priceToBookValue = 1.512
+debtToEquityRatio = 0.899
+freeCashFlow = 834100000
+
+
+ticker = WSM
+priceToEarningsRatio = 15.368
+priceToBookValue = 4.393
+debtToEquityRatio = 2.28
+freeCashFlow = 421018000
+
+
+ticker = SKX
+priceToEarningsRatio = 19.111
+priceToBookValue = 2.925
+debtToEquityRatio = 1.018
+freeCashFlow = 195988000
+
+
+ticker = BCPC
+priceToEarningsRatio = 34.619
+priceToBookValue = 3.679
+debtToEquityRatio = 0.517
+freeCashFlow = 99224000
+
+
+ticker = FRPT
+priceToEarningsRatio = -1850
+priceToBookValue = 20.388
+debtToEquityRatio = 0.799
+freeCashFlow = -54316281
+
+
+ticker = SAM
+priceToEarningsRatio = 49.06
+priceToBookValue = 6.848
+debtToEquityRatio = 0.574
+freeCashFlow = -8435000
+
+
+ticker = W
+priceToEarningsRatio = -8.462
+priceToBookValue = -8.914
+debtToEquityRatio = -4.128
+freeCashFlow = -158510000
+
+
+ticker = COUP
+priceToEarningsRatio = -111.138
+priceToBookValue = 23.07
+debtToEquityRatio = 2.539
+freeCashFlow = 56186000
+
+
+ticker = H
+priceToEarningsRatio = 12.668
+priceToBookValue = 2.374
+debtToEquityRatio = 1.123
+freeCashFlow = 27000000
+
+
+ticker = UBER
+priceToEarningsRatio = -4.824
+priceToBookValue = 3.991
+debtToEquityRatio = 1.168
+freeCashFlow = -4858000000
+
+
+ticker = OLLI
+priceToEarningsRatio = 23.785
+priceToBookValue = 3.189
+debtToEquityRatio = 0.507
+freeCashFlow = 71220000
+
+
+ticker = CPRT
+priceToEarningsRatio = 31.257
+priceToBookValue = 10.491
+debtToEquityRatio = 0.433
+freeCashFlow = 291124000
+
+
+ticker = GDDY
+priceToEarningsRatio = 97.722
+priceToBookValue = 17.49
+debtToEquityRatio = 7.149
+freeCashFlow = 635800000
+
+
+ticker = LPSN
+priceToEarningsRatio = -16.967
+priceToBookValue = 11.204
+debtToEquityRatio = 2.452
+freeCashFlow = -106740000
+
+
+ticker = MOMO
+priceToEarningsRatio = 1.626
+priceToBookValue = 0.359
+debtToEquityRatio = 0.648
+freeCashFlow = 5263172000
+
+
+ticker = NTES
+priceToEarningsRatio = 15.229
+priceToBookValue = 5.273
+debtToEquityRatio = 0.636
+freeCashFlow = 13948275000
+
+
+ticker = RH
+priceToEarningsRatio = 18.074
+priceToBookValue = 212.623
+debtToEquityRatio = 130.129
+freeCashFlow = 76182000
+
+
+ticker = SIRI
+priceToEarningsRatio = 20.583
+priceToBookValue = -29.19
+debtToEquityRatio = -15.639
+freeCashFlow = 354000000
+
+
+ticker = SNBR
+priceToEarningsRatio = 8.848
+priceToBookValue = -5.254
+debtToEquityRatio = -7.503
+freeCashFlow = 74615000
+
+
+ticker = FDS
+priceToEarningsRatio = 27.65
+priceToBookValue = 14.067
+debtToEquityRatio = 1.551
+freeCashFlow = 387255000
+
+
+ticker = ALK
+priceToEarningsRatio = 10.503
+priceToBookValue = 3.863
+debtToEquityRatio = 2
+freeCashFlow = 172000000
+
+
+ticker = ZBRA
+priceToEarningsRatio = 19.246
+priceToBookValue = 5.772
+debtToEquityRatio = 1.629
+freeCashFlow = 692000000
+
+
+ticker = EBAY
+priceToEarningsRatio = 4.977
+priceToBookValue = 11.315
+debtToEquityRatio = 7.95
+freeCashFlow = 494000000
+
+
+ticker = ALKS
+priceToEarningsRatio = -16.386
+priceToBookValue = 2.14
+debtToEquityRatio = 0.718
+freeCashFlow = -60068000
+
+
+ticker = ALNY
+priceToEarningsRatio = -11.178
+priceToBookValue = 6.017
+debtToEquityRatio = 0.582
+freeCashFlow = -218690000
+
+
+ticker = AMGN
+priceToEarningsRatio = 17.975
+priceToBookValue = 14.325
+debtToEquityRatio = 5.502
+freeCashFlow = 8795000000
+
+
+ticker = AVGO
+priceToEarningsRatio = 36.654
+priceToBookValue = 3.843
+debtToEquityRatio = 2.323
+freeCashFlow = 2214000000
+
+
+ticker = BLKB
+priceToEarningsRatio = 318.4
+priceToBookValue = 9.868
+debtToEquityRatio = 4.023
+freeCashFlow = 124111000
+
+
+ticker = FSLR
+priceToEarningsRatio = -51.339
+priceToBookValue = 1.157
+debtToEquityRatio = 0.475
+freeCashFlow = -494516000
+
+
+ticker = GTLS
+priceToEarningsRatio = 20.6
+priceToBookValue = 0.949
+debtToEquityRatio = 0.998
+freeCashFlow = 15200000
+
+
+ticker = LKQ
+priceToEarningsRatio = 20.284
+priceToBookValue = 2.184
+debtToEquityRatio = 1.544
+freeCashFlow = 814348000
+
+
+ticker = MTZ
+priceToEarningsRatio = 7.012
+priceToBookValue = 1.571
+debtToEquityRatio = 1.901
+freeCashFlow = 682404000
+
+
+ticker = NICE
+priceToEarningsRatio = 50.816
+priceToBookValue = 4.2
+debtToEquityRatio = 0.599
+freeCashFlow = 312186000
+
+
+ticker = NUVA
+priceToEarningsRatio = 62.675
+priceToBookValue = 4.5
+debtToEquityRatio = 1.06
+freeCashFlow = 46252000
+
+
+ticker = NVO
+priceToEarningsRatio = 26.69
+priceToBookValue = 17.932
+debtToEquityRatio = 1.181
+freeCashFlow = 37854000000
+
+
+ticker = RMD
+priceToEarningsRatio = 44.683
+priceToBookValue = 10.199
+debtToEquityRatio = 0.999
+freeCashFlow = 514245000
+
+
+ticker = SGEN
+priceToEarningsRatio = -62.368
+priceToBookValue = 11.257
+debtToEquityRatio = 0.185
+freeCashFlow = -94315000
+
+
+ticker = SWAV
+priceToEarningsRatio = -13.551
+priceToBookValue = 4.782
+debtToEquityRatio = 0.204
+freeCashFlow = -51924000
+
+
+ticker = VRTX
+priceToEarningsRatio = 40.745
+priceToBookValue = 9.548
+debtToEquityRatio = 0.376
+freeCashFlow = 1983384000
+
+
+ticker = BIIB
+priceToEarningsRatio = 9.009
+priceToBookValue = 3.801
+debtToEquityRatio = 1.083
+freeCashFlow = 1280600000
+
+
+ticker = EXEL
+priceToEarningsRatio = 18.302
+priceToBookValue = 3.514
+debtToEquityRatio = 0.118
+freeCashFlow = 150762000
+
+
+ticker = BB
+priceToEarningsRatio = -19.148
+priceToBookValue = 1.129
+debtToEquityRatio = 0.537
+freeCashFlow = 14000000
+
+
+ticker = SIVB
+priceToEarningsRatio = 11.463
+priceToBookValue = 2.001
+debtToEquityRatio = 9.951
+freeCashFlow = 422777000
+
+
+ticker = WAL
+priceToEarningsRatio = 7.921
+priceToBookValue = 1.206
+debtToEquityRatio = 8.721
+freeCashFlow = 107403000
+
+
+ticker = WM
+priceToEarningsRatio = 28.997
+priceToBookValue = 6.84
+debtToEquityRatio = 2.925
+freeCashFlow = 2056000000
+
+
+ticker = BMRN
+priceToEarningsRatio = 137.688
+priceToBookValue = 4.918
+debtToEquityRatio = 0.458
+freeCashFlow = 11411000
+
+
+ticker = CASY
+priceToEarningsRatio = 23.847
+priceToBookValue = 3.441
+debtToEquityRatio = 1.649
+freeCashFlow = 140984000
+
+
+ticker = TWOU
+priceToEarningsRatio = -4.912
+priceToBookValue = 2.057
+debtToEquityRatio = 0.801
+freeCashFlow = -12299000
+
+
+ticker = BUD
+priceToEarningsRatio = 17.758
+priceToBookValue = 1.835
+debtToEquityRatio = 2.009
+freeCashFlow = 8542000000
+
+
+ticker = UNH
+priceToEarningsRatio = 20.205
+priceToBookValue = 4.834
+debtToEquityRatio = 1.939
+freeCashFlow = 16392000000
+
+
+ticker = CLB
+priceToEarningsRatio = -9.848
+priceToBookValue = 6.993
+debtToEquityRatio = 8.773
+freeCashFlow = 65627000
+
+
+ticker = TMUS
+priceToEarningsRatio = 19.315
+priceToBookValue = 2.331
+debtToEquityRatio = 2.019
+freeCashFlow = 471000000
+
+
+ticker = CRTO
+priceToEarningsRatio = 5.803
+priceToBookValue = 0.495
+debtToEquityRatio = 0.653
+freeCashFlow = 131673000
+
+
+ticker = UAA
+priceToEarningsRatio = 72.1
+priceToBookValue = 3.03
+debtToEquityRatio = 1.253
+freeCashFlow = 363229000
+
+
+ticker = CBOE
+priceToEarningsRatio = 25.223
+priceToBookValue = 3.294
+debtToEquityRatio = 0.582
+freeCashFlow = 152700000
+
+
+ticker = CME
+priceToEarningsRatio = 33.848
+priceToBookValue = 2.753
+debtToEquityRatio = 1.877
+freeCashFlow = 2427200000
+
+
+ticker = LFUS
+priceToEarningsRatio = 30.18
+priceToBookValue = 2.57
+debtToEquityRatio = 0.769
+freeCashFlow = 28743000
+
+
+ticker = ODFL
+priceToEarningsRatio = 24.745
+priceToBookValue = 4.917
+debtToEquityRatio = 0.297
+freeCashFlow = 510249000
+
+
+ticker = PAC
+priceToEarningsRatio = 20.229
+priceToBookValue = 4.464
+debtToEquityRatio = 0.858
+freeCashFlow = 7003999000
+
+
+ticker = RPM
+priceToEarningsRatio = 24.684
+priceToBookValue = 5.988
+debtToEquityRatio = 3.119
+freeCashFlow = 46977000
+
+
+ticker = MMM
+priceToEarningsRatio = 17.825
+priceToBookValue = 8.71
+debtToEquityRatio = 3.548
+freeCashFlow = 5724000000
+
+
+ticker = CWH
+priceToEarningsRatio = -8.444
+priceToBookValue = -37.026
+debtToEquityRatio = -108.444
+freeCashFlow = 195815000
+
+
+ticker = CMI
+priceToEarningsRatio = 11.022
+priceToBookValue = 3.161
+debtToEquityRatio = 1.706
+freeCashFlow = 296000000
+
+
+ticker = EBS
+priceToEarningsRatio = 59.173
+priceToBookValue = 3.839
+debtToEquityRatio = 1.12
+freeCashFlow = 51300000
+
+
+ticker = WSO
+priceToEarningsRatio = 27.673
+priceToBookValue = 4.782
+debtToEquityRatio = 0.586
+freeCashFlow = 319346000
+
+
+ticker = OII
+priceToEarningsRatio = -4.236
+priceToBookValue = 1.379
+debtToEquityRatio = 1.557
+freeCashFlow = 19394000
+
+
+ticker = CVS
+priceToEarningsRatio = 14.567
+priceToBookValue = 1.513
+debtToEquityRatio = 2.478
+freeCashFlow = 10391000000
+
+
+ticker = MAR
+priceToEarningsRatio = 31.238
+priceToBookValue = 55.176
+debtToEquityRatio = 34.634
+freeCashFlow = 1032000000
+
+
+ticker = SHW
+priceToEarningsRatio = 30.513
+priceToBookValue = 14.876
+debtToEquityRatio = 5.254
+freeCashFlow = 2028010000
+
+
+ticker = NYT
+priceToEarningsRatio = 38.155
+priceToBookValue = 4.541
+debtToEquityRatio = 0.781
+freeCashFlow = 144457000
+
+
+ticker = STAA
+priceToEarningsRatio = 89.844
+priceToBookValue = 8.085
+debtToEquityRatio = 0.294
+freeCashFlow = 15700000
+
+
+ticker = TDG
+priceToEarningsRatio = 49.865
+priceToBookValue = -7.998
+debtToEquityRatio = -5.218
+freeCashFlow = 1013798000
+
+
+ticker = TXT
+priceToEarningsRatio = 8.311
+priceToBookValue = 1.024
+debtToEquityRatio = 1.881
+freeCashFlow = 430000000
+
+
